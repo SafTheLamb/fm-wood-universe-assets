@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+  Major Features:
+    - Added assets for [Astroponics](https://mods.factorio.com/mod/astroponics)
+    - Migrated assets from [Cupric Asteroids](https://mods.factorio.com/mod/cupric-asteroids)
+    - Migrated assets from [Early Agriculture](https://mods.factorio.com/mod/early-agriculture)
