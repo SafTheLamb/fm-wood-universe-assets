@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+  Major Features:
+    - Add assets for [Wooden Vulcanus](https://mods.factorio.com/mod/vulcanus-sulfuric-bacteria)
+    - Add assets for [Wooden Fulgora](https://mods.factorio.com/mod/fulgora-coralmium-agriculture)
+    - Update assets for Astroponics
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
   Major Features:
     - Added assets for [Astroponics](https://mods.factorio.com/mod/astroponics)
