@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.2.1
+  Changes:
+    - Add graphics for Astroponics 1.2.0
+    - Add graphics for Cerys Lunaponics 0.1.0
+    - Add graphics for Aquilo Algaculture (WIP)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.1.2
   Changes:
     - Add graphics for Astroponics 1.1.0
